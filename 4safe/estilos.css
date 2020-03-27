@@ -137,7 +137,7 @@ section#banner {
 }
 
 footer {
-    background: green;
+    background: #00796b;
     color: white;
     display: flex;
     justify-content: center;
