@@ -11,9 +11,13 @@ p {
 
 header>a {
     text-decoration: none;
-    color: black;
-    font-weight: bold;
+    color: #00796b;
     font-size: 7vh;
+}
+
+#quatro {
+    color: #11864d;
+    font-weight: bold;
 }
 
 header {
