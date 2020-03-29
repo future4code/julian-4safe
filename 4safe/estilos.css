@@ -11,11 +11,16 @@ p {
 
 header>a {
     text-decoration: none;
-    color: #00796b;
+    color: #0a3a34;
     font-size: 7vh;
 }
 
 #quatro {
+    color: #11864d;
+    font-weight: bold;
+}
+
+.barraMenu {
     color: #11864d;
     font-weight: bold;
 }
