@@ -11,9 +11,18 @@ p {
 
 header>a {
     text-decoration: none;
-    color: black;
-    font-weight: bold;
+    color: #0a3a34;
     font-size: 7vh;
+}
+
+#quatro {
+    color: #11864d;
+    font-weight: bold;
+}
+
+.barraMenu {
+    color: #11864d;
+    font-weight: bold;
 }
 
 header {
@@ -128,6 +137,14 @@ section#banner {
 
 
 /* Fim Produtos */
+
+.secao2 {
+    background-color: #22496A;
+    width: 100%;
+    height: 350px;
+    padding: 2rem;
+}
+
 
 footer {
     left: 0;
